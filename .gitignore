@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+*.jar
+*.cookie
+*.db
+*.sqlite*
+*.log
